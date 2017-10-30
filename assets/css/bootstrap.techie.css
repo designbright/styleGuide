@@ -6,7 +6,7 @@
 */
 
 /*! normalize.css v3.0.1 | MIT License | git.io/normalize */
-@font-face{ 
+@font-face{
 	font-family: 'Lane';
 	src: url('../fonts/lane/LANENAR_-webfont.eot');
 	src: url('../fonts/lane/LANENAR_-webfont.eot?iefix') format('eot'),
@@ -5070,7 +5070,7 @@ a.list-group-item-danger.active:focus {
 }
 .panel-primary > .panel-heading {
   color: #ffffff;
-  background-color: #009688;
+  background-color: #007A7C;
   border-color: #009688;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
@@ -5100,7 +5100,7 @@ a.list-group-item-danger.active:focus {
 }
 .panel-info > .panel-heading {
   color: #ffffff;
-  background-color: #00bcd4;
+  background-color: #024F4F;
   border-color: #00bcd4;
 }
 .panel-info > .panel-heading + .panel-collapse > .panel-body {
